@@ -15,3 +15,5 @@ Chapter 1 - Programming Problem-Solving
 <br> Chapter 7 - Pointers 
 <br> Chapter 8 - Structured Data
 
+### 🌟Reflection
+This course helped me gain practical programming skills and strengthened my problem-solving abilities. By learning about control structures, functions, arrays, and simple algorithms, I can now break down real-world problems into manageable steps and translate them into working code. The practical exercises increased my confidence in programming and prepared me for more advanced coding challenges.
