@@ -1,7 +1,7 @@
 # Program Pembangunan Pelajar SECP 2025
 ## Summary 🌟
-Date: 8 November 2025 
-Venue: Faculty of Computing, UTM Johor Bahru
+Date : 8 November 2025 
+<br> Venue : Faculty of Computing, UTM Johor Bahru
 
 Program Pembangunan Pelajar SECP 2025 brought together students, seniors, and inspiring speakers in one place. The sessions included UTM Graduate Attribute by En. Baharudin Mastari, CV Writing Skills by Ms. Noor Hazwani Ramli, and sharing sessions from 4th-year seniors. In the evening, we had a mentor-mentee session led by Year 2 and Year 3 seniors. They emphasized the importance of time management, active participation, and balancing studies with extracurricular activities.
 
