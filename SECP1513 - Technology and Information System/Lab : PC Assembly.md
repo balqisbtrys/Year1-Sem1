@@ -7,4 +7,4 @@ The PC Assembly Lab Session provided hands-on experience in assembling and disas
 ## Reflection
 This lab session was a meaningful learning experience as it allowed me to apply classroom knowledge in a real situation. Handling the components directly helped me understand better about their functions and placement inside the PC. I also became more confident in managing hardware and following correct assembly steps.
 
-Working with my groupmate improved my teamwork and communication skills, while the quiz encouraged me to reflect on what I had learned. Overall, the session made me feel more prepared and motivated to further develop my technical skills, and I’m definitely looking forward to joining more sessions like this that help me learn through real experience in the future.
+Working with my groupmate improved my teamwork and communication skills, while the quiz encouraged me to reflect on what I had learned. Overall, the session made me feel more prepared and I’m definitely looking forward to joining more sessions like this that help me learn through real experience in the future.
