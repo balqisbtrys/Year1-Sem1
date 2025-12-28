@@ -1,4 +1,4 @@
-# Assignment 1 : UTMDigital Open Day 2025
+# UTMDigital Open Day 2025
 Group Name : SynTech
 
 Group Members : 
