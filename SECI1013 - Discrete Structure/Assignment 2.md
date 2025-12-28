@@ -9,7 +9,7 @@ This assignment must be completed in a group. All answers must be must be readab
 * Show properly every step or calculation
 * Include all group members’ names on the front page
 
-### Contents of Questions 
+### Content of Questions 
 * List all elements of the relation and draw the digraph
 * List all members of the equivalence relation and justify using properties
 * Construct the relation matrix and check for partial order
