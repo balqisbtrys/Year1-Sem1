@@ -1,4 +1,4 @@
-# Assignment 2 : PPG Industry Talk
+# PPG Industry Talk
 ## Summary 🌟
 Date : 20 November 2025
 <br> Venue : Hyflex Classroom, N28a
