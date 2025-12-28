@@ -8,3 +8,12 @@ This assignment must be completed in a group. All answers must be must be readab
 * Complete all 7 questions
 * Show properly every step or calculation
 * Include all group members’ names on the front page
+
+### Contents of Questions 
+* List all elements of the relation and draw the digraph
+* List all members of the equivalence relation and justify using properties
+* Construct the relation matrix and check for partial order
+* Determine whether the function is one-to-one, onto, or bijective
+* Find the inverse and compositions of the given functions
+* Write the recurrence relation and calculate sequence values
+* Write a recursive algorithm and trace the steps for the sequence
