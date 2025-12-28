@@ -1,4 +1,4 @@
-# Assignment 3 : Serunai Industry Talk
+# Serunai Industry Talk
 ## Summary 🌟
 Date : 18 December 2025
 <br> Venue : Hyflex Classroom, N28a
