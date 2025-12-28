@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 This assignment consist of chapter 2 which is relation, function & recurrence
 
 ### Assignment Instruction
