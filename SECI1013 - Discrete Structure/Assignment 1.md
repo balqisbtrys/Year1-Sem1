@@ -9,3 +9,10 @@ This assignment must be completed in a group. All answers must be readable and n
 * Show properly every step or calculation
 * Include all group members’ names on the front page
 
+### Content of Questions
+* Compute complements, intersections, and power sets for given sets A, B, C
+* Prove the set identity using all relevant set laws
+* Find the number of students in art or science classes for different scenarios
+* Translate the statement into logic symbols and analyze truth conditions
+* Use truth tables to check if compound propositions A and B are logically equivalent
+* Prove using direct proof
