@@ -16,7 +16,7 @@ Program Pembangunan Pelajar SECP 2025 brought together students, seniors, and in
 Attending this program gave me a clearer view of my degree journey and motivated me to keep improving my skills through competitions and other learning opportunities. The insights from seniors and speakers motivated me to be more proactive during my studies. Overall, the program inspired me to continue my university life with focus, balance, and enthusiasm for growth.
 
 ## Photos
-Here are some pictures during the event:
+Here are some photos during the event:
 
 ![posterSECP](https://github.com/user-attachments/assets/d20200b8-067a-459c-9c82-565b12f5aa2e) <br> *Poster SECP*
 
