@@ -38,3 +38,16 @@ For me, UTMDigital Open Day have given great benefits to students. It expanded m
 I also had the chance to interview one of the UTMDigital staff, which gave me an experience in conducting interviews. The activities really sparked excitement about the future.
 
 Before this visit, my knowledge was mostly theoretical. But now, I have seen how technology is implemented in the real world. For example, UTMDigital has developed many systems such as MyUTM Portal, e-Learning platform, UTM Wi-Fi and other management systems that used by students and staff.
+
+## Photos
+Here are some photos during UTMDigital Open Day:
+
+![utmd1](https://github.com/user-attachments/assets/82be334c-61a4-48b0-a9d2-43e381dd0465) 
+
+![utmdIV](https://github.com/user-attachments/assets/f3115009-81b3-491f-939b-9b0c381693d8) <br> *Interview Session*
+
+![utmdSlide](https://github.com/user-attachments/assets/2e33502d-abbf-4459-b329-974cfc69bf6a) <br> *Talk on Second Day*
+
+
+
+
