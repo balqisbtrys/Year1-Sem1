@@ -12,3 +12,9 @@ Overall, this experience made me more confident in taking part in campus events 
 ## Photos
 Here are some pictures during SUSKOM'25:
 
+![posterSuskom](https://github.com/user-attachments/assets/ee43aa78-d731-4441-aac1-0421ef4ca038) *Poster SUSKOM'25*
+
+![crew](https://github.com/user-attachments/assets/d042aee3-1635-41a3-9e5f-45f20eca7eab) *Crews Group Photo*
+
+![station5](https://github.com/user-attachments/assets/93fa15e3-735e-4ec3-8a20-4178e2b98f77) *Station 5 Treasure Hunt* 
+
