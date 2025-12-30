@@ -16,7 +16,7 @@ He gave a quick overview of what they aim to achieve through the national quantu
 This summit deepened my understanding of quantum technology and its future impact. Learning from the experts highlighted the potential of quantum computing in solving complex problems and driving innovation. This event made me feel like I want to explore more about emerging technologies, and consider how I can contribute to future developments in the field. Overall, it was a great experience that motivated me to expand my knowledge and skills in modern technology.
 
 ## Photos
-Here are some pictures during Quantum Summit Event:
+Here are some photos during Quantum Summit Event:
 
 ![photo_1_2025-12-30_20-38-32](https://github.com/user-attachments/assets/c6e92878-4c0f-4f67-98c5-baa26ee90d07)
 
