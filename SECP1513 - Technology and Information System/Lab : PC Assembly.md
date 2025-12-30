@@ -8,3 +8,14 @@ The PC Assembly Lab Session provided hands-on experience in assembling and disas
 This lab session was a meaningful learning experience as it allowed me to apply classroom knowledge in a real situation. Handling the components directly helped me understand better about their functions and placement inside the PC. I also became more confident in managing hardware and following correct assembly steps.
 
 Working with my groupmate improved my teamwork and communication skills, while the quiz encouraged me to reflect on what I had learned. Overall, the session made me feel more prepared and I’m definitely looking forward to joining more sessions like this that help me learn through real experience in the future.
+
+## Photos
+Here are some pictures during PC Assembly Lab Session:
+
+![assembly1](https://github.com/user-attachments/assets/2f5c435b-e989-4d6d-9e1c-2e0e9bfa4811) <br> *Close up View on Internal Side*
+
+![assembly2](https://github.com/user-attachments/assets/1241bba0-2ad3-4fc4-b5cb-2e0103be6410) <br> *PC Component*
+
+
+
+
