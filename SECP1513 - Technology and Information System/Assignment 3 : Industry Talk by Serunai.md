@@ -11,10 +11,10 @@ This talk helped me understand that coding skills alone are not enough for a suc
 The session also motivated me to improve my management skills, because teamwork, planning, and problem-solving are essential in the technology industry. Overall, it was an engaging and insightful experience that provided a clearer perspective on the skills needed for my future career.
 
 ## Photos
-Here are some photos during Industry Talk 2
+Here are some photos during Serunai Industry Talk:
 
 ![posterserunai](https://github.com/user-attachments/assets/2c8f8cf3-0eca-4cba-9922-025bf16e85dd) <br> *Poster Industry Talk*
 
 ![groupphoto1](https://github.com/user-attachments/assets/cfe4a26e-11c7-4a25-9b4f-0eae0bb5159d) 
 
-![groupphoto2](https://github.com/user-attachments/assets/23b9e641-3511-4af5-8676-05f00791602f) *Group photos*
+![groupphoto2](https://github.com/user-attachments/assets/23b9e641-3511-4af5-8676-05f00791602f) <br> *Group photos*
