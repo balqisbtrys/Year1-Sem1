@@ -15,3 +15,14 @@ Big thanks to the speakers;
 Attending this talk helped me bridge the gap between academic knowledge and real industry practices. Learning from experienced professionals highlighted the practical applications of ICT, data analytics, cloud solutions, and enterprise systems in a company environment.
 
 The session also inspired me to further develop both technical and professional skills to be better prepared for future career opportunities. Overall, this talk reinforced the importance of staying curious, proactive, and adaptable in today’s rapidly changing technology environment.
+
+## Photos
+Here are some pictures during PPG Industry Talk:
+
+![posterPPG](https://github.com/user-attachments/assets/314adb1b-fb2a-4fde-9b55-82e75cbdecfd) <br> *Poster PPG*
+
+![PPG1](https://github.com/user-attachments/assets/01ceaed9-739d-49c3-a783-1eab2e80a1e9)
+
+![PPG2](https://github.com/user-attachments/assets/4f09b544-e9a2-40f0-82a5-a61f8de0dc96) <br> *Group Photos*
+
+
