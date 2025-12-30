@@ -10,7 +10,7 @@ This lab session was a meaningful learning experience as it allowed me to apply 
 Working with my groupmate improved my teamwork and communication skills, while the quiz encouraged me to reflect on what I had learned. Overall, the session made me feel more prepared and I’m definitely looking forward to joining more sessions like this that help me learn through real experience in the future.
 
 ## Photos
-Here are some pictures during PC Assembly Lab Session:
+Here are some photos during PC Assembly Lab Session:
 
 ![assembly1](https://github.com/user-attachments/assets/2f5c435b-e989-4d6d-9e1c-2e0e9bfa4811) <br> *Close up View on Internal Side*
 
