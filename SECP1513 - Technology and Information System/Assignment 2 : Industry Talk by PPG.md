@@ -17,7 +17,7 @@ Attending this talk helped me bridge the gap between academic knowledge and real
 The session also inspired me to further develop both technical and professional skills to be better prepared for future career opportunities. Overall, this talk reinforced the importance of staying curious, proactive, and adaptable in today’s rapidly changing technology environment.
 
 ## Photos
-Here are some pictures during PPG Industry Talk:
+Here are some photos during PPG Industry Talk:
 
 ![posterPPG](https://github.com/user-attachments/assets/314adb1b-fb2a-4fde-9b55-82e75cbdecfd) <br> *Poster PPG*
 
