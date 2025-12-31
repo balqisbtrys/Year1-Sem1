@@ -1,4 +1,4 @@
-# Lab 1 : Lab 1 - Combinational Logic Circuit
+# Lab 1 : Combinational Logic Circuit
 
 Date: 18 Nov 2024
 <br> Venue : Digital Lab (328-02, N28 )
