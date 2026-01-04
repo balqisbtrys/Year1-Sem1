@@ -1,7 +1,7 @@
 # Assignment 1
 
 ### Assignment Instruction
-This assignment must be done in pairs consisting of 2 members. There are two sets of questions and it was assigned by our lecturer, where we get set 1. The application examples given in the question set can be used as a guide to design our solution.
+This assignment must be done in pairs consisting of 2 members. There are two sets of questions and it was assigned by our lecturer, where me and my partner got set 1. The application examples given in the question set can be used as a guide to design our solution.
 
 ### Content of Set 1
 * Analyze the problem and design a flow chart for the BMR calculator
