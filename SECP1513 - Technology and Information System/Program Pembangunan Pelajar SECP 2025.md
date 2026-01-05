@@ -13,7 +13,7 @@ Program Pembangunan Pelajar SECP 2025 brought together students, seniors, and in
 <br> The seniors shared their journey from Year 1 to internship, including project experiences and involvement in competition like hackathon. They also shared their tips for maintaining a good CGPA, and the importance of consistently updating LinkedIn and GitHub profiles.
 
 ## Reflection
-Attending this program gave me a clearer view of my degree journey and motivated me to keep improving my skills through competitions and other learning opportunities. The insights from seniors and speakers motivated me to be more proactive during my studies. Overall, the program inspired me to continue my university life with focus, balance, and enthusiasm for growth.
+Attending this program gave me a better understanding of the academic path and encouraged further skill development through competition and other learning opportunities. The advice offered by senior and speakers motivated me to be more proactive during my studies. Overall, this program inspired me to continue my university life with focus, balance, and enthusiasm for my professional growth.
 
 ## Photos
 Here are some photos during the event:
