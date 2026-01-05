@@ -18,7 +18,7 @@ This summit deepened my understanding of quantum technology and its future impac
 ## Photos
 Here are some photos during Quantum Summit Event:
 
-![photo_1_2025-12-30_20-38-32](https://github.com/user-attachments/assets/c6e92878-4c0f-4f67-98c5-baa26ee90d07)
+![photo_1_2025-12-30_20-38-32](https://github.com/user-attachments/assets/c6e92878-4c0f-4f67-98c5-baa26ee90d07)  
 
 ![photo_2_2025-12-30_20-38-32](https://github.com/user-attachments/assets/8d7ae95d-92f0-4188-a4b2-42b9233a908c)
 
