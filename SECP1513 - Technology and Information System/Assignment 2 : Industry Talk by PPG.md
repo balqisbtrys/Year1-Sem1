@@ -12,9 +12,7 @@ Big thanks to the speakers;
 <br> 4️⃣ Patrick Thong (SAP CoE Operations, DTR Lead APAC)
 
 ## Reflection
-Attending this talk helped me bridge the gap between academic knowledge and real industry practices. Learning from experienced professionals highlighted the practical applications of ICT, data analytics, cloud solutions, and enterprise systems in a company environment.
-
-The session also inspired me to further develop both technical and professional skills to be better prepared for future career opportunities. Overall, this talk reinforced the importance of staying curious, proactive, and adaptable in today’s rapidly changing technology environment.
+Hearing this talk enabled me to link theoretical insights with real-world industry practices. Acquiring knowledge from experienced professionals highlighted the practical application of ICT, data analytics, cloud technology, and business systems in a business environment. The session inspired me to improve my technical and professional skills to prepare better for upcoming job prospect. Overall, this conversation highlighted the importance of staying curious, engaged, and adaptable in the rapidly changing technological environment of today.
 
 ## Photos
 Here are some photos during PPG Industry Talk:
