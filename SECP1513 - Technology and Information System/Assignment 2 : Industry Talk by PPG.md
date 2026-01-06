@@ -3,7 +3,7 @@
 Date : 20 November 2025
 <br> Venue : Hyflex Classroom, N28a
 
-The talk provided valuable insights into how a global company operates and how ICT plays a critical role in supporting business operations worldwide. The speakers explained how data analytics is used to support decision-making, manage risks, and improve operational efficiency. They also shared how cloud infrastructures enables continuous global operations and how enterprise systems such as SAP help manage and simplify daily business processes.
+PPG is a global coatings company guided by The PPG Way, focusing on customer value, teamwork, and continuous improvement. With over 140 years of experience and operations in more than 70 countries, PPG's products protect and enhance everything from landmarks and homes to cars, aircraft, and electronics. They also have their targets on 2030 sustainability with 2019 baseline, which can contribute to positive impact such as reduce emissions and waste while supporting safer and more responsible operations. The speakers also explained about how data analytics is used to support decision-making, and improve operational efficiency, how cloud infrastructures enables continuous global operations and how enterprise systems such as SAP help manage and simplify daily business processes.
 
 Big thanks to the speakers;
 <br> 1️⃣ Ooi Ai Ling (Associate Director, APAC IT Lead)
