@@ -3,12 +3,10 @@
 Date : 18 December 2025
 <br> Venue : Hyflex Classroom, N28a
 
-This talk was presented by Ts. Hj. Abdul Alim bin Abdul Muttalib, Head of Technology and Innovation at Serunai Commerce Sdn Bhd. The talk focused on the importance of project management and system development in computer science. He highlighted that while coding is essential, understanding project management is also crucial for long-term career growth. I also gained a clearer understanding of the Software Development Life Cycle (SDLC) stages and the differences between agile and waterfall methodologies, as he used real-life problems as examples.
+Serunai Commerce is a company that develops a comprehensive digital Halal ecosystem to enhance the global Halal marketplace's connectivity and transparency. The industry talk on Project Management and System Development was delivered by a representative of Serunai company, Ts. Hj. Abdul Alim Bin Abdul Muttalib, Head of Technology and Innovation. This talk focused on the importance of project management and system development in computer science. Project management is essential in controlling chaos and enforce team synergy, where the skills help to coordinate with designers, testers and other developers effectively. While system development is important for the entire process of defining, designing, testing, and implementing a software application. Without it, chaos, bugs, and failed projects will occur without we asked.
 
 ## Reflection
-This talk helped me understand that coding skills alone are not enough for a successful career. Knowledge of project management and system development is equally important and learning about SDLC and agile vs waterfall methodologies allowed me to connect academic concepts with daily real-world practices.
-
-The session also motivated me to improve my management skills, because teamwork, planning, and problem-solving are essential in the technology industry. Overall, it was an engaging and insightful experience that provided a clearer perspective on the skills needed for my future career.
+This talk helped me understand that coding skills alone are not enough for a successful career. Knowledge of project management and system development is equally important and learning about SDLC and agile vs waterfall methodologies allowed me to connect academic concepts with daily real-world practices. The session also motivated me to improve my management skills, because teamwork, planning, and problem-solving are essential in the technology industry. Overall, it was an engaging and insightful experience that provided a clearer perspective on the skills needed for my future career.
 
 ## Photos
 Here are some photos during Serunai Industry Talk:
