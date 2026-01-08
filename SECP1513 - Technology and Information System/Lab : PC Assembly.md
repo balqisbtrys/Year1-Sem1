@@ -2,7 +2,7 @@
 ## Summary 🌟
 Date: 30 October 2025
 
-The PC Assembly Lab Session provided hands-on experience in assembling and disassembling a PC. During the session, I learned to handle each components such as the power supply, RAM, hard disk, and cooling fan while following instructions properly. With guidance from the lab staff and teamwork with my groupmate, the PC was successfully reassembled and tested. A quiz at the end of the session helped reinforce my understanding of computer hardware.
+The PC Assembly Lab Session provided a practical session in assembling and disassembling a PC. Throughout the session, I learned how to handle each components properly such as power supply, RAM, hard disk, cooling fan, and more while following the instruction given by the staff. Their guidance as well as the teamwork from my groupmate, the PC was successfully reassembled and tested. On top of that, a quiz at the end of the session helped me in reinforcing my understanding of the computer hardware.
 
 ## Reflection
 This lab session was a meaningful learning experience as it allowed me to apply classroom knowledge in a real situation. Handling the components directly helped me understand better about their functions and placement inside the PC. I also became more confident in managing hardware and following correct assembly steps.
