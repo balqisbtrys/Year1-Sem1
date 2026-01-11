@@ -4,7 +4,7 @@ Date : 11 December 2025
 <br> Venue : Dewan Sultan Iskandar, UTM
 <br> Time : 2.00 pm - 5.00 pm
 
-ASEAN Quantum Summit 2025 began with a welcoming address by YBrs. Prof. Dr. Mohd Shafry bin Mohd Rahim, Vice-Chancellor of Universiti Teknologi Malaysia, followed by an officiating speech from YAB Dato’ Onn Hafiz bin Ghazi, Chief Minister of Johor.  We then had two insightful plenary talks:
+ASEAN Quantum Summit 2025 began with a welcoming address by YBrs. Prof. Dr. Mohd Shafry bin Mohd Rahim, Vice-Chancellor of Universiti Teknologi Malaysia, followed by an officiating speech from YAB Dato’ Onn Hafiz bin Ghazi, Chief Minister of Johor. He mentioned that Johor has recorded highest investment in Malaysia, which is RM91.1 billion. We then had two insightful plenary talks:
 
 🧠 Plenary Talk 1 – Prof. Dr. Masahiro Kitagawa (QIQB Director, University of Osaka, Japan)
 He shared insights on Japan’s quantum computing and innovation, explaining concepts like odd/even parity, practical applications such as carbon and nitrogen fixation, and the six major research domains.
