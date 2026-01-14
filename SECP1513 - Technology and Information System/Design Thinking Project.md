@@ -11,10 +11,10 @@ Yong See En
 ## 🎯 Project Objective
 To apply the Design Thinking process to identify, analyze, and prototype a data-driven solution that enhances the student experience or campus efficiency.
 Students will learn to:
-•	Empathize with users through data collection and observation.
-•	Define and frame a meaningful data-related problem.
-•	Ideate and prototype a creative, data-based solution.
-•	Test and refine ideas based on feedback.
+<br> •	Empathize with users through data collection and observation.
+<br> •	Define and frame a meaningful data-related problem.
+<br> •	Ideate and prototype a creative, data-based solution.
+<br> •	Test and refine ideas based on feedback.
 
 ## Reflection
 Throughout the process to finish this project, I got to learn many things including design thinking process, which consists of five phases. Empathy, define, ideate, prototype, and testing. These phases are really helpful in producing an effective solutions to the correspond problems, as it helped me to understand more about user needs and behaviours.
