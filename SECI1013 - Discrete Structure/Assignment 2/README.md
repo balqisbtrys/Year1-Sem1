@@ -17,3 +17,5 @@ This assignment must be completed in a group. All answers must be must be readab
 * Find the inverse and compositions of the given functions
 * Write the recurrence relation and calculate sequence values
 * Write a recursive algorithm and trace the steps for the sequence
+
+Submission : Softcopy
