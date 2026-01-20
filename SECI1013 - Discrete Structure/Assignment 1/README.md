@@ -16,3 +16,5 @@ This assignment must be completed in a group. All answers must be readable and n
 * Translate the statement into logic symbols and analyze truth conditions
 * Use truth tables to check if compound propositions A and B are logically equivalent
 * Prove using direct proof
+
+Submission : Hardcopy
