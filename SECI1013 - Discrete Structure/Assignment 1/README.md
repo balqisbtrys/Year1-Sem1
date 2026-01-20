@@ -1,5 +1,5 @@
 # Assignment 1
-This assignment consist of chapter 1 which is set theory & logic
+This assignment consist of chapter 1 which is set theory & logic.
 
 ### Assignment Instruction
 This assignment must be completed in a group. All answers must be readable and neatly written on plain A4 paper. For this assignment, students are expected to:
