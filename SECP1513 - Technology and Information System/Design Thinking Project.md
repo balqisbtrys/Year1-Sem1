@@ -25,3 +25,4 @@ Overall, this project improve my critical thinking, creativity, and awareness of
 
 ### View our work here:
 <a href="https://youtu.be/LfIVa4f8p3s">Design Thinking video</a>
+<a href="https://www.canva.com/design/DAG-Fexf_rc/EvGIbeQojNdtYNsoc2BL4A/view?utm_content=DAG-Fexf_rc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he9e92e3d8b">Presentation Slide</a>
