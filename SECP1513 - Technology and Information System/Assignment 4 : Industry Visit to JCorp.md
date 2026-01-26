@@ -11,3 +11,5 @@ Encik Yusri Mohamed also shared his insights on the importance of adaptibility a
 
 ## Reflection
 Throughout this visit, I gain a clearer perspective on how technology is applied beyond theoretical learning. It help me realize that computing is not about programming only, but also involve the use of technology strategically to support organizational needs and decision-making. The sharing session from Encik Budiman Bujang and Encik Yusri Mohamed, especially on adaptability and continuous learning, made me more aware of the importance of staying updated with emerging technologies such as AI and data analytics. This experience increase my interest in pursuing a technology related career and motivated me to further develop the skills that are required for the future workforce.
+
+## Newsletter 
