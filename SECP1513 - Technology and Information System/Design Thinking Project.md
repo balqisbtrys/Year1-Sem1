@@ -1,5 +1,5 @@
 # Design Thinking Project
-Project Title : Smart Campus Data Solution : Improving Student Experience through Data
+Project Title : Smart Campus Data Solution - Improving Student Experience through Data
 <br> Project Theme : Energy Usage and Sustainability
 
 |Group Members|
