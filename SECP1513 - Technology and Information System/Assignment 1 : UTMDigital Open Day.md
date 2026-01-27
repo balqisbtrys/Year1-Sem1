@@ -39,6 +39,9 @@ I also had the chance to interview one of the UTMDigital staff, which gave me an
 
 Before this visit, my knowledge was mostly theoretical. But now, I have seen how technology is implemented in the real world. For example, UTMDigital has developed many systems such as MyUTM Portal, e-Learning platform, UTM Wi-Fi and other management systems that used by students and staff.
 
+### View our work here:
+<a href="https://drive.google.com/file/d/1PUkMbJ7Ff0K_puxUTkx_bNMwTqnNDlsF/view?usp=sharing">UTMDigital Video Group 4</a>
+
 ## Photos
 Here are some photos during UTMDigital Open Day:
 
