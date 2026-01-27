@@ -14,6 +14,9 @@ Big thanks to the speakers;
 ## Reflection
 Hearing this talk enabled me to link theoretical insights with real-world industry practices. Acquiring knowledge from experienced professionals highlighted the practical application of ICT, data analytics, cloud technology, and business systems in a business environment. The session inspired me to improve my technical and professional skills to prepare better for upcoming job prospect. Overall, this conversation highlighted the importance of staying curious, engaged, and adaptable in the rapidly changing technological environment of today.
 
+### Poster
+![PPG Poster](https://github.com/user-attachments/assets/a5822fd9-9891-4585-a145-e73641fe3f2c)
+
 ## Photos
 Here are some photos during PPG Industry Talk:
 
